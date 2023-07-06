@@ -32,3 +32,4 @@ def tkinter1():
     button.place(x=100,width=300,height=50,y=270)
     
     win.mainloop()  
+tkinter1()
